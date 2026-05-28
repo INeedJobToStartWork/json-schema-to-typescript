@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo/let-me-test",
+  "name": "@monorepo/json-schema-to-typescript",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -51,5 +51,14 @@
   "engines": {
     "node": ">=24"
   },
-  "packageManager": "pnpm@10.33.3"
+  "packageManager": "pnpm@10.33.3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/json-schema-to-typescript/json-schema-to-typescript.git"
+  },
+  "author": "json-schema-to-typescript",
+  "bugs": {
+    "url": "https://github.com/json-schema-to-typescript/json-schema-to-typescript/issues"
+  },
+  "homepage": "https://github.com/json-schema-to-typescript/json-schema-to-typescript#readme"
 }
